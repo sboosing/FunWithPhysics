@@ -1,5 +1,5 @@
 # FunWithPhysics
-A TechTogerther Boston Hackathon project 
+## A TechTogerther Boston Hackathon project : Winner of Best Hardware Hack
 
 ### A Bit about the Project
 Fun with Physics teaches elementary school aged children about the physics of sound. Kids can see the amplitude, pitch and intensity of the music they play or even their own voice while learning the accompanying science concepts on our website. 
